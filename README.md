@@ -41,6 +41,8 @@ def generate_reverse_shell(self, lhost, lport):
     for lang, code in payloads.items():
         print(f"{Colors.RED}[+] {lang} reverse shell:{Colors.END}")
         print(f"    {code}\n")
+
+        
 NOTES DARI GUE:
 
 Tool ini fully work dan bisa lo modif sesuka lo.
